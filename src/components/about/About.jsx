@@ -33,7 +33,7 @@ export default function About() {
             <article className="about__card">
               <BsPcDisplay className="about__icon" />
               <h5>Working At</h5>
-              <small>Infinite Computer Solutions Nepal</small>
+              <small>Cedar Gate Technologies</small>
             </article>
 
             <article className="about__card">
